@@ -1,0 +1,14 @@
+{
+    "name": "server",
+    "lockfileVersion": 2,
+    "requires": true,
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+  "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.0.1",
+        "socket.io": "^4.7.1"
+    }
+}
